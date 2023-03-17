@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spaceship/static/css/main.f6cd3bad.css",
-    "main.js": "/spaceship/static/js/main.f4d9a799.js",
+    "main.js": "/spaceship/static/js/main.27bcdd15.js",
     "static/js/787.8cd9a936.chunk.js": "/spaceship/static/js/787.8cd9a936.chunk.js",
     "index.html": "/spaceship/index.html",
     "main.f6cd3bad.css.map": "/spaceship/static/css/main.f6cd3bad.css.map",
-    "main.f4d9a799.js.map": "/spaceship/static/js/main.f4d9a799.js.map",
+    "main.27bcdd15.js.map": "/spaceship/static/js/main.27bcdd15.js.map",
     "787.8cd9a936.chunk.js.map": "/spaceship/static/js/787.8cd9a936.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6cd3bad.css",
-    "static/js/main.f4d9a799.js"
+    "static/js/main.27bcdd15.js"
   ]
 }
